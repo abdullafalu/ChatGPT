@@ -45,4 +45,4 @@ app.*.map.json
 
 
 # hide apikey
-\lib\core\api_const.dart
+/lib/core/api_const.dart
