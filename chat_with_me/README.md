@@ -1,24 +1,18 @@
-# chat_with_me
+# Build ChatGPT App in Flutter using OpenAI API
 
 A new Flutter project.
 
 # Features
 
-##### Authentication with Email & Password
-##### Uploading Videos with Caption
-##### Compressing Videos
-##### Generating Thumbnails Out of Video
-##### Displaying Videos with Caption
-##### Liking on Posts
-##### Commenting on Posts
-##### Liking the Comments
-##### Searching Users
-##### Following Users
-##### Displaying Followers, Following, Likes & Posts of User
-##### TikTok Like UI
-##### App launcher icon changed
+##### Building a ChatBOT App
+##### HTTP requests
+##### Automatic list scrolling
+##### Error Handling
+##### Clean and Clear design
+##### The minimum amount of code, with Provider state management
+##### Reusable codes for widgets and functions
 
-# Screenshots
+# App video
 <table>
     <tr>
         
