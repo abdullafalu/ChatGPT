@@ -45,4 +45,4 @@ app.*.map.json
 
 
 # hide apikey
-C:\Users\thinkpad\Desktop\flutter\chatwithme\chat_with_me\lib\core\api_const.dart
+\lib\core\api_const.dart
