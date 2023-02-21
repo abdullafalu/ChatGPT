@@ -2,15 +2,33 @@
 
 A new Flutter project.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+##### Authentication with Email & Password
+##### Uploading Videos with Caption
+##### Compressing Videos
+##### Generating Thumbnails Out of Video
+##### Displaying Videos with Caption
+##### Liking on Posts
+##### Commenting on Posts
+##### Liking the Comments
+##### Searching Users
+##### Following Users
+##### Displaying Followers, Following, Likes & Posts of User
+##### TikTok Like UI
+##### App launcher icon changed
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<table>
+    <tr>
+        <td><img src="asset/image/1.jpg" width="300" /></td>
+        <td><img src="asset/image/2.jpg" width="300" /></td>
+        <td><img src="asset/image/3.jpg" width="300" /></td>
+        <td><img src="asset/image/4.jpg" width="300" /></td>
+    </tr>
+    <tr>
+        <td><img src="asset/image/5.jpg" width="300" /></td>
+        <td><img src="asset/image/6.jpg" width="300" /></td>
+        <td><img src="asset/image/7.jpg" width="300" /></td>
+    </tr>
+</table>
