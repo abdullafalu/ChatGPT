@@ -44,5 +44,5 @@ app.*.map.json
 /android/app/release
 
 
-# hide apikey
-/lib/core/api_const.dart
+# ignore files(apikey)
+lib\core\api_const.dart
