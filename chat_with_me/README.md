@@ -21,14 +21,10 @@ A new Flutter project.
 # Screenshots
 <table>
     <tr>
-        <td><img src="asset/image/1.jpg" width="300" /></td>
-        <td><img src="asset/image/2.jpg" width="300" /></td>
-        <td><img src="asset/image/3.jpg" width="300" /></td>
-        <td><img src="asset/image/4.jpg" width="300" /></td>
-    </tr>
-    <tr>
-        <td><img src="asset/image/5.jpg" width="300" /></td>
-        <td><img src="asset/image/6.jpg" width="300" /></td>
-        <td><img src="asset/image/7.jpg" width="300" /></td>
+        
+
+https://user-images.githubusercontent.com/120295037/220263685-c130a884-0b24-4222-9895-7ee0eadd8ef5.mp4
+
+
     </tr>
 </table>
